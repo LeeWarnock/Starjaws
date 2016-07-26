@@ -4,7 +4,7 @@ It is important since other developers will be unlikely to have the same databas
 */
 
 /* Create and use the starwars db */
-USE `x4oeqwjjf8bf4j1t`;
+USE `qdmxxp04gmh9yutg`;
 
 /* Create a table for all your star wars characters */
 CREATE TABLE `allcharacters` (
